@@ -24,9 +24,13 @@
 ## 📱 Screenshots
 <img width="128" alt="image" src="https://github.com/user-attachments/assets/e55f8430-a9b0-4982-b3c1-42f76657ae9f" />
 
+
+
 <img width="123" alt="image" src="https://github.com/user-attachments/assets/8cbba474-b582-4adc-a7c3-7922c13937f5" />
 
-<img width="153" alt="image" src="https://github.com/user-attachments/assets/bbf566d6-d866-42b2-aae7-88b1832dead2" />
+
+
+<img width="122" alt="image" src="https://github.com/user-attachments/assets/7a2a7ab3-6dcb-467e-a647-070b00057950" />
 
 ## 🛠️ Tech Stack
 - **Frontend:** Dart & Flutter

@@ -22,11 +22,9 @@
 - **🔐 Privacy-First Architecture**  
   Uses Firebase for secure authentication, storage, and real-time database with encrypted data handling.
 ## 📱 Screenshots
-<img width="105" alt="image" src="https://github.com/user-attachments/assets/3ac93ba0-d7a0-4d0a-ae9c-020518012e68" />
-
+<img width="128" alt="image" src="https://github.com/user-attachments/assets/e55f8430-a9b0-4982-b3c1-42f76657ae9f" />
 
 <img width="123" alt="image" src="https://github.com/user-attachments/assets/8cbba474-b582-4adc-a7c3-7922c13937f5" />
-
 
 <img width="153" alt="image" src="https://github.com/user-attachments/assets/bbf566d6-d866-42b2-aae7-88b1832dead2" />
 
